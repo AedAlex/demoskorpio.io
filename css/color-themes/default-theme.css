@@ -1,0 +1,120 @@
+/* Theme Color */
+
+
+/*Background Color*/
+
+
+/*Border Color*/
+
+.btn-style-one,
+.main-slider,
+.btn-style-two,
+.btn-style-two:hover,
+.btn-style-three,
+.header-style-three,
+.social-icon-two li a:hover,
+.services-block .inner-box:hover,
+.main-header .info-box .icon-box,
+.property-search-form .search-btn:hover,
+.ui-state-active, .ui-widget-content .ui-state-active,
+.main-header .search-box-outer .dropdown-menu,
+.main-header .search-panel input:focus,
+.quality-block .inner-block:hover .icon-box,
+.main-header .search-panel select:focus,
+.main-footer .footer-bottom .footer-nav li,
+.header-top-two .top-left .social-icon li a:hover,
+.property-block-two .inner-box .content-column .text p.blockquote,
+.default-section .news-column .inner-column .owl-nav .owl-prev:hover,
+.default-section .news-column .inner-column .owl-nav .owl-next:hover,
+.property-search-form .form-group .ui-selectmenu-button.ui-button:focus,
+.testimonial-section-two .owl-nav .owl-prev:hover,
+.testimonial-section-two .owl-nav .owl-next:hover,
+.agents-section .owl-nav .owl-prev:hover,
+.agents-section .owl-nav .owl-next:hover,
+.default-form input[type="text"]:focus,
+.default-form input[type="email"]:focus,
+.default-form input[type="password"]:focus,
+.default-form select:focus,
+.archive-list li a:hover,
+.default-form textarea:focus,
+.team-form input[type="text"]:focus,
+.team-form input[type="email"]:focus,
+.team-form input[type="password"]:focus,
+.team-form select:focus,
+.property-detail .inner-box .text blockquote,
+.team-form textarea:focus,
+.popular-category-list li a:hover,
+.news-block-six .inner-box:hover .lower-content,
+.blog-detail .inner-box .lower-content .text blockquote,
+.comment-form .form-group input[type="text"]:focus,
+.comment-form .form-group input[type="password"]:focus,
+.comment-form .form-group input[type="tel"]:focus,
+.comment-form .form-group input[type="email"]:focus,
+.comment-form .form-group select:focus,
+.comment-form .form-group textarea:focus,
+.contact-form input[type="text"]:focus,
+.contact-form input[type="email"]:focus,
+.contact-form input[type="password"]:focus,
+.contact-form select:focus,
+.contact-form textarea:focus,
+.map-section .google-map,
+.property-tabs-section .property-search-tab .property-tabs .tab-btns .tab-btn{
+	border-color:#71b100;
+}
+
+.featured-block .inner-box .image a.wishlist:before{
+	border-bottom:12px solid #71b100;	
+}
+
+.featured-block .inner-box .image a.wishlist:after{
+	border-top:12px solid #71b100;	
+}
+
+.main-slider .sales-box .inner-box .detail:before{
+	border-bottom-color:#71b100;
+}
+
+.property-box .inner-box .outer-icon:after{
+	border-left-color:#71b100;
+}
+
+/*RGBA Color Light*/
+
+.house-block .inner-box .image .overlay-box .purchased{
+	background-color:rgba(113,177,0,0.50);
+}
+
+/*RGBA Color Dark*/
+
+.property-block .inner-box .image .sale,
+.featured-block .inner-box .image .sale,
+.property-block-three .inner-box .image-column .image .sale{
+	background-color:rgba(113,177,0,0.70);
+}
+
+@media only screen and (max-width: 767px){
+	
+	.main-menu .navbar-header .navbar-toggle{
+		border-color:#71b100;
+	}
+	
+	.main-menu .navbar-header .navbar-toggle,
+	.main-menu .navbar-collapse > .navigation,
+	.main-menu .navbar-collapse > .navigation > li > ul,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul,
+	.main-menu .navbar-collapse > .navigation > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li > a:hover,
+	.main-menu .navbar-collapse > .navigation > li > a:active,
+	.main-menu .navbar-collapse > .navigation > li > a:focus,
+	.main-menu .navbar-collapse > .navigation > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li.current > a,
+	.main-menu .navbar-collapse > .navigation > li.current-menu-item > a,
+	.header-style-two.inner-header .main-menu .navigation > li > a{
+		background-color:#71b100;
+	}
+	
+}
